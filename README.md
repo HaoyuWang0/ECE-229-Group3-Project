@@ -14,6 +14,9 @@ http://44.232.168.218:8866/
 - Plotly 5.8.0
 - Scipy 1.7.1
 
+## Full Documentation
+https://food-insecurity-analysis.readthedocs.io/en/latest/
+
 ## File Structure
 ```
 - data
